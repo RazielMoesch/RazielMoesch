@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @RazielMoesch
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning
-- 📫 How to reach me Machine Learning
-- 😄 Pronouns: Machine Learning
-- ⚡ Fun fact: Machine Learning
+I like naming things weird things sometimes so take the naming schemes in my repos with a grain of salt. Working towards creating a toolset people actually wanna use.
+So far i've rebuilt the transformers library in python or at the very least enough to train a small model. 
 
-<!---
-RazielMoesch/RazielMoesch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PS if you want to give me a job email me at therazielmoesch@gmail.com
